@@ -78,6 +78,7 @@
 </p>
 
 ---
+<img src="https://github.com/MisbahHaq/MisbahHaq/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/MisbahHaq/MisbahHaq/output/snake.svg" alt="Snake animation" />
+
 
