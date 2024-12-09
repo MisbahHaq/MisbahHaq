@@ -79,7 +79,3 @@
 
 ---
 
-### 🐍 Watch my contribution snake eat my contributions:
-![Snake animation](https://github.com/MisbahHaque/MisbahHaq/blob/output/github-contribution-grid-snake.svg)
-
-
