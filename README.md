@@ -71,7 +71,7 @@
 
 <h3 align="center">🔥 Fun Section</h3>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
+<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/MisbahHaq/count.svg?" alt="Profile Counter" />
@@ -80,6 +80,6 @@
 ---
 
 ### 🐍 Watch my contribution snake eat my contributions:
-![Snake animation](https://github.com/MisbahHaque/MisbahHaque/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MisbahHaque/MisbahHaq/blob/output/github-contribution-grid-snake.svg)
 
 
