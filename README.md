@@ -78,7 +78,8 @@
 </p>
 
 ---
-<img src="https://github.com/MisbahHaq/MisbahHaq/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
+### 🐍 Watch my contribution snake eat my contributions:
+![Snake animation](https://github.com/MisbahHaque/MisbahHaque/blob/output/github-contribution-grid-snake.svg)
 
 
