@@ -10,7 +10,7 @@
 
 - 🌱 **Currently Learning:** **Flutter, Dart, and Full-Stack Development**  
 - 📫 **How to Reach Me:** **misbahhaque@yahoo.com**  
-- 💡 **Future Goals:** Become a **Full-Stack Developer and Manager** in 10 years, own a house, and achieve financial independence.  
+- 💡 **Future Goals:** Become a **Full-Stack Developer and Manager** in 5 years, own a house, and achieve financial independence.  
 - ⚡ **Fun Fact:** I love turning gaming moments into exciting YouTube content!  
 
 ---
