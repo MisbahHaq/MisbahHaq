@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Developer in Progress from Pakistan</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=misbahhaq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+<!--   <img src="https://komarev.com/ghpvc/?username=misbahhaq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  -->
   <img src="https://github-profile-trophy.vercel.app/?username=misbahhaq&margin-w=5&row=1&column=7&theme=gruvbox&no-frame=true" alt="GitHub Trophies" />
 </p>
 
@@ -68,10 +68,6 @@
 </p>
 
 ---
-
-<h3 align="center">🔥 Fun Section</h3>
-
-<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/MisbahHaq/count.svg?" alt="Profile Counter" />
