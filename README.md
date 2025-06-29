@@ -8,24 +8,12 @@
 
 ---
 
-- 🌱 **Currently Learning:** **Flutter, Dart, and Full-Stack Development**  
+- 🌱 **Currently Learning:** **Full-Stack Development**  
 - 📫 **How to Reach Me:** **misbahhaque@yahoo.com**  
 - 💡 **Future Goals:** Become a **Full-Stack Developer and Manager**.  
-- ⚡ **Fun Fact:** I love turning gaming moments into exciting YouTube content!  
 
 ---
 
-<h3 align="center">📲 Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/misbah-haque-4117682b4" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Misbah Haque on LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@PaleAsparagus" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Pale Asparagus on YouTube" height="30" width="40" />
-  </a>
-</p>
-
----
 
 <h3 align="center">💻 Languages & Tools</h3>
 <p align="center">
