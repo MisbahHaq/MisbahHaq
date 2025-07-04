@@ -28,7 +28,6 @@ mindmap
     ((DevOps))
       Git
       Docker
-    ((Cloud))
 ```
 
 
