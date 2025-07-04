@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Misbah Haque</h1>
+<h1 align="center">Hi, I'm Misbah Haque</h1>
 <h3 align="center">A Passionate Full-Stack Developer in Progress</h3>
 
 <p align="center"> 
@@ -9,7 +9,7 @@
 ---
 
 
-<h3 align="center"> ⚡ Tech Snapshot </h3>
+<h3 align="center">Tech Snapshot </h3>
 
 ```mermaid
 mindmap
