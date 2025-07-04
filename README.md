@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Misbah Haque</h1>
-<h3 align="center">A Passionate Full-Stack Developer in Progress from Pakistan</h3>
+<h3 align="center">A Passionate Full-Stack Developer in Progress</h3>
 
 <p align="center"> 
 <!--   <img src="https://komarev.com/ghpvc/?username=misbahhaq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  -->
@@ -8,35 +8,31 @@
 
 ---
 
-- 🌱 **Currently Learning:** **Full-Stack Development**  
-- 📫 **How to Reach Me:** **misbahhaque@yahoo.com**  
-- 💡 **Future Goals:** Become a **Full-Stack Developer and Manager**.  
 
----
+<h3 align="center"> ⚡ Tech Snapshot </h3>
+
+```mermaid
+mindmap
+  root((Skills))
+    ((Languages))
+      JavaScript
+      Python
+      Dart
+    ((Frameworks))
+      React
+      FastAPI
+      Express
+    ((UI))
+      Tailwind
+      Bootstrap
+    ((DevOps))
+      Git
+      Docker
+    ((Cloud))
+```
 
 
-<h3 align="center">💻 Languages & Tools</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
-</p>
+
 
 ---
 
@@ -51,11 +47,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=misbahhaq&theme=dracula" alt="GitHub Streak" />
 </p>
 
----
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/MisbahHaq/count.svg?" alt="Profile Counter" />
 </p>
-
----
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
