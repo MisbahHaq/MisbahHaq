@@ -25,7 +25,7 @@ mindmap
     ((UI))
       Tailwind
       Bootstrap
-    ((DevOps))
+    ((Deployment))
       Git
       Docker
 ```
