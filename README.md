@@ -18,13 +18,15 @@ mindmap
       JavaScript
       Python
       Dart
-    ((Frameworks))
-      React
+    ((Backend))
+      Node JS
       FastAPI
       Express
     ((UI))
       Tailwind
       Bootstrap
+      React JS
+      Next JS
     ((Deployment))
       Git
       Docker
