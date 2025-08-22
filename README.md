@@ -30,6 +30,8 @@ mindmap
     ((Deployment))
       Git
       Docker
+      Vercel
+      Netlify
 ```
 
 
