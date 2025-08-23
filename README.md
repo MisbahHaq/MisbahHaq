@@ -21,7 +21,6 @@ mindmap
     Backend 
       Node.js
       Express.js
-      FastAPI
       Firebase
       MySQL
       MongoDB
@@ -31,9 +30,8 @@ mindmap
       Tailwind CSS
       Bootstrap
       ShadCDN
-    Deployment & Tools 
+    Deployment
       Git
-      Docker
       Vercel
       Netlify
 ```
