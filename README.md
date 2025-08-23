@@ -14,23 +14,24 @@
 ```mermaid
 mindmap
   root((Skills))
-    ((Languages))
+    Languages
       JavaScript
       Python
       Dart
-    ((Backend))
-      FireBase
+    Backend 
+      Node.js
+      Express.js
+      FastAPI
+      Firebase
       MySQL
       MongoDB
-      Node JS
-      FastAPI
-      Express
-    ((Frontend))
-      Tailwind
+    Frontend 
+      React.js
+      Next.js
+      Tailwind CSS
       Bootstrap
-      React JS
-      Next JS
-    ((Deployment))
+      ShadCDN
+    Deployment & Tools 
       Git
       Docker
       Vercel
