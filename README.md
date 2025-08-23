@@ -19,10 +19,13 @@ mindmap
       Python
       Dart
     ((Backend))
+      FireBase
+      MySQL
+      MongoDB
       Node JS
       FastAPI
       Express
-    ((UI))
+    ((Frontend))
       Tailwind
       Bootstrap
       React JS
