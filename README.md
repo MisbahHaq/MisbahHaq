@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Misbah Haque</h1>
+<!--  <h1 align="center">Hi, I'm Misbah Haque</h1>
 <h3 align="center">A Passionate Full-Stack Developer in Progress</h3>
 
 <p align="center"> 
 <!--   <img src="https://komarev.com/ghpvc/?username=misbahhaq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  -->
-  <img src="https://github-profile-trophy.vercel.app/?username=misbahhaq&margin-w=5&row=1&column=7&theme=gruvbox&no-frame=true" alt="GitHub Trophies" />
+<!--  <img src="https://github-profile-trophy.vercel.app/?username=misbahhaq&margin-w=5&row=1&column=7&theme=gruvbox&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -57,5 +57,8 @@ mindmap
 </p>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+</p> -->
+I'm a solution-oriented Front-end Developer, lifelong learner, and adventurer with a professional background in Software Engineering. I enjoy development because of the satisfaction I get by overcoming changes. I have an Engineer mindset. Frameworks and languages are tools for me. What matters is that the problem is solved more cleanly and conveniently. Connect with me to discuss how I can help you or your organization!
+
+
 
