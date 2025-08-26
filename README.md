@@ -58,7 +58,7 @@ mindmap
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p> -->
-I'm a solution-oriented Front-end Developer, lifelong learner, and adventurer with a professional background in Software Engineering. I enjoy development because of the satisfaction I get by overcoming changes. I have an Engineer mindset. Frameworks and languages are tools for me. What matters is that the problem is solved more cleanly and conveniently. Connect with me to discuss how I can help you or your organization!
+I'm a Front-end Developer. I primarily work with JavaScript, focusing on building scalable, maintainable front-end. I'm comfortable with frameworks like React and Next, and I prefer using CSS to its full potential—for layout, styling, and animations. For interactive motion, I mainly rely on GSAP & Framer Motion to craft smooth, dynamic user experiences.
 
 
 
